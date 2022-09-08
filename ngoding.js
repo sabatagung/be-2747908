@@ -1,1 +1,1 @@
-console.log('hello git');
+console.log('Latihan Git - CAMP2022');
